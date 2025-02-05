@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=volla
+ro.product.system_dlkm.device=algiz
+ro.product.system_dlkm.manufacturer=Volla
+ro.product.system_dlkm.model=Volla Phone Quintus
+ro.product.system_dlkm.name=algiz
+ro.system_dlkm.build.date=Tue Jan 28 14:20:06 UTC 2025
+ro.system_dlkm.build.date.utc=1738074006
+ro.system_dlkm.build.fingerprint=volla/algiz/algiz:14/AP2A.240905.003/24:user/release-keys
+ro.system_dlkm.build.id=AP2A.240905.003
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=24
+ro.system_dlkm.build.version.release=14
+ro.system_dlkm.build.version.release_or_codename=14
+ro.system_dlkm.build.version.sdk=34
+# end of file
+
