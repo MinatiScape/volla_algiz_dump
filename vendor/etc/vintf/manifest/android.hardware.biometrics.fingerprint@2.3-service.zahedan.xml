@@ -1,0 +1,16 @@
+<!--
+    Input:
+        device/daria/zahedan-unified/biometrics/android.hardware.biometrics.fingerprint@2.3-service.zahedan.xml
+-->
+<manifest version="8.0" type="device">
+    <hal format="hidl">
+        <name>android.hardware.biometrics.fingerprint</name>
+        <transport>hwbinder</transport>
+        <fqname>@2.3::IBiometricsFingerprint/default</fqname>
+    </hal>
+    <hal format="hidl">
+        <name>vendor.goodix.hardware.biometrics.fingerprint</name>
+        <transport>hwbinder</transport>
+        <fqname>@2.1::IGoodixFingerprintDaemon/default</fqname>
+    </hal>
+</manifest>

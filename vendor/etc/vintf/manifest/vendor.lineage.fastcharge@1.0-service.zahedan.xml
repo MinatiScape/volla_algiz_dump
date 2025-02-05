@@ -1,0 +1,11 @@
+<!--
+    Input:
+        device/daria/zahedan-unified/fastcharge/vendor.lineage.fastcharge@1.0-service.zahedan.xml
+-->
+<manifest version="8.0" type="device">
+    <hal format="hidl">
+        <name>vendor.lineage.fastcharge</name>
+        <transport>hwbinder</transport>
+        <fqname>@1.0::IFastCharge/default</fqname>
+    </hal>
+</manifest>
